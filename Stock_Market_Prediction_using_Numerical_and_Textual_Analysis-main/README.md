@@ -2,7 +2,7 @@
 
 **GRIP @ The Sparks Foundation**
 
-### **Author:** Sukonya Phukan
+### **Author:** Ankit Kumar
 ### Data Science & Business Analytics Intern
 **July 2021**
 
